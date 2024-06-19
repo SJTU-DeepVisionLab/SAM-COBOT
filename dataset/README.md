@@ -1,1 +1,2 @@
-Put the sonar datset in this dir.
+# SAM-COBOT
+Put the sonar dataset in this dir. 
