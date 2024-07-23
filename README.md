@@ -10,7 +10,7 @@ The official implementation of CVPR 2024 paper:"Parameter Efficient Fine-tuning 
 }
 
 # Dataset Preparation
-For one example dataset, i.e., the Marine Debris dataset, please refer to [SonarSAM](https://github.com/wangsssky/SonarSAM))
+For one example dataset, i.e., the Marine Debris dataset, please refer to [SonarSAM](https://github.com/wangsssky/SonarSAM)
 
 # Method
 
