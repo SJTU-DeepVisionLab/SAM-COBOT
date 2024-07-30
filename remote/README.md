@@ -3,9 +3,6 @@
 # Dataset Preparation
 For one example dataset, i.e., the Marine Debris dataset, please refer to [SonarSAM](https://github.com/wangsssky/SonarSAM)
 
-# Method
-
-<img src="framework.png" width="800">
 
 # Training
 - Using box prompts
