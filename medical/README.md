@@ -1,5 +1,3 @@
-# MedSAM 
-This is the official repository for SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction.
 
 
 ## Installation 
