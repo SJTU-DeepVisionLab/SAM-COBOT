@@ -62,13 +62,3 @@ python Inference.py
 - We also thank Alexandre Bonnet for sharing this great [blog](https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/)
 
 
-## Reference
-
-```
-@article{MedSAM,
-  title={Segment Anything in Medical Images},
-  author={Ma, Jun and Wang, Bo},
-  journal={arXiv preprint arXiv:2304.12306},
-  year={2023}
-}
-```
