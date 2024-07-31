@@ -8,7 +8,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="SAM_PARSER",
+    name="SAM_COBOT",
     version="0.0.1",
     author="Zelin Peng",
     python_requires=">=3.9",
